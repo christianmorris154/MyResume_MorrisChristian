@@ -16,7 +16,7 @@ Resume.js and Resume.css add to creating the program. Resume.js processes the in
 
 The background color of the page is set as "yellow-green" 
 
-All the text has the default color: black 
+All the text has the color: black 
 
 The margins and fonts must follow the sample outcome. These two files were imported to App.js, which incorporating component defined (Resume.js) and style defined (Resume.css) 
 
