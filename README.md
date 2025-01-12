@@ -9,7 +9,7 @@ The program takes resume details on the front-end side, which is represented in 
 
 Resume.js and Resume.css add to creating the program. Resume.js processes the input data by utilizing .JS elements to establish the resume template based on the requirements. It consists of personal details, education details, skills, work experience and project details. These sections followed a layout, which was defined in CSS as the followings: 
 
-The background color of the page is set rgba(#bdfb04) 
+The background color of the page is set as "yellow-green" 
 
 All the text has the default color: black 
 
