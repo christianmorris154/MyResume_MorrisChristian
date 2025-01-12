@@ -1,6 +1,11 @@
 # MyResume_MorrisChristian
 MyResume_MorrisChristian
 
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/c1e15992-24b2-4fe1-bf37-62de8e4b0a00)
+
+
 # Input: 
 
 The program takes resume details on the front-end side, which is represented in .JS code. The input data contains five main sections, including personal details, education details, skills, work experience and project details. The input information should be followed the provided user and system requirements to develop Resume.js (Resume Component) and Resume.css 
